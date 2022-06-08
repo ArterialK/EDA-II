@@ -1,0 +1,28 @@
+1
+3
+9
+0
+10
+13
+primer Numero Del Numero De Cuenta
+43
+21
+segundo Numero Del Numero De Cuenta
+19
+87
+32
+tercer Numero Del Numero De Cuenta
+43
+56
+6
+cuarto Numero Del Numero De Cuenta
+7
+91
+11
+quinto Numero Del Numero De Cuenta
+4
+22
+sexto+septimo Numero Del Numero De Cuenta
+24
+23
+octavo+noveno Numero Del Numero De Cuenta

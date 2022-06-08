@@ -1,2 +1,2 @@
-# EDA-II
-Repositorio de Estructura de Datos y Algoritmos 2
+# EDA2-04
+GitHub Creado para la materia de Estructura de datos y algoritmos 2
